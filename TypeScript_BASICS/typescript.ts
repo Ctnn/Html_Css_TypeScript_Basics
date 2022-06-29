@@ -12,7 +12,7 @@ lengs=["php","Java"]
 
 let number:number[];
 
-
+let deneme:string[];
 
 console.log(a,typeof(b));
 
