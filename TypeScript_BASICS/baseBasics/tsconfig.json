@@ -4,5 +4,6 @@
     "strict": false,
     "module": "ESNext",
     "moduleResolution": "Node",
+    "esModuleInterop": false,
  }
 }
